@@ -2,6 +2,6 @@
 layout: home
 author_profile: true
 header : 
-  image:/images/toronto_skyline.jpg
+  image:/images/pic1.jpg
 
 ---
