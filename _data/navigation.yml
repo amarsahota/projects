@@ -1,13 +1,13 @@
 # main links
 main:
     - title: "Quantitative Finance"
-    url: /qf/
+      url: /qf/
     - title: "Machine Learning"
-    url: /ml/
+      url: /ml/
     - title: "Data Analysis"
-    url: /da/
+      url: /da/
     - title: "About"
-    url: /about/
+      url: /about/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
