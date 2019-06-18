@@ -293,3 +293,15 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  #_ pages 
+  - scope:
+    path: ""
+    type: pages
+    values: 
+    layout: single 
+    author_profile: true 
+
+
+
+
