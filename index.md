@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header: 
-  image: "/images/pic1.jpg"
+  image: ![Toronto](/images/pic1.jpg "Toronto")
 ---
 
 Welcome to my page, here is a list of my projects 
