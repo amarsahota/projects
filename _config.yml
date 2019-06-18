@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Amar Sahota"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Author-Favicon.png"
   bio              : ""
   location         : "Toronto"
   email            :
