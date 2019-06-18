@@ -2,6 +2,6 @@
 layout: home
 author_profile: true
 header: 
-  image:/images/pic1.jpg
+  image: /projects/blob/master/images/pic1.jpg
 
 ---
