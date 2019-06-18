@@ -1,6 +1,12 @@
 # main links
 main:
-  - title: "About"
+    - title: "Quantitative Finance"
+    url: /qf/
+    - title: "Machine Learning"
+    url: /ml/
+    - title: "Data Analysis"
+    url: /da/
+    - title: "About"
     url: /about/
 
   # - title: "About"
