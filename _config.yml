@@ -127,9 +127,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amarsahota/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Linked-In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amar-sahota-104736bb/"
 
 # Site Footer
 footer:
