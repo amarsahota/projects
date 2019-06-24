@@ -5,6 +5,8 @@ header:
   image: "/images/pic1.jpg"
 ---
 
+"If you can Dream it, you can Do it." ---<cite> Walt Disney </cite>
+
 # About
 
 ## Programming Skills 
