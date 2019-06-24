@@ -4,7 +4,12 @@ author_profile: true
 header: 
   image: "/images/pic1.jpg"
 ---
-"/images/pic1.jpg"
+## Programming Skills 
 
-Welcome to my page, here is a list of my projects 
+Proficient with: Python,R, C, SQL, Tableau.
+
+## Contact Me 
+Email : amar.sahota271@gmail.com
+
+
 

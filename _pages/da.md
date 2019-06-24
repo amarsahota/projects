@@ -13,7 +13,7 @@ toc: true
 <h3>Project Summary<h3>
 +Worte SQL qwueries to investigate and sort data. 
 +Used Python to extract data from a large SQL database.
-+Cleaned, filtered and combined multiple dataframes
++Cleaned, filtered and combined multiple dataframes using Pandas 
 +Data Analysis and Data visualiztions on key insights 
 
 
