@@ -10,6 +10,6 @@ toc: true
 
 ### Project Summary
 
-	* Analysed compostions of different types of glass 
-	* Visualized key relations among data 
-	* Used KNN to predict type of glass based on composition 
+* Analysed compostions of different types of glass 
+* Visualized key relations among data 
+* Used KNN to predict type of glass based on composition 
