@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /da/
-title: "Quantitative Finance Projects"
+title: "Data Science Projects"
 toc: true
 ---
 
