@@ -4,6 +4,9 @@ author_profile: true
 header: 
   image: "/images/pic1.jpg"
 ---
+
+# About
+
 ## Programming Skills 
 
 Proficient with: Python,R, C, SQL, Tableau.

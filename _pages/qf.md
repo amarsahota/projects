@@ -5,6 +5,6 @@ title: "Quantitative Finance Projects"
 toc: true
 ---
 
-### Quantitative Finance Projects 
+# Quantitative Finance Projects 
 
-# Porjects are in the process of being uploaded 
+### Porjects are in the process of being uploaded 
