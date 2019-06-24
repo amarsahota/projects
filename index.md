@@ -5,7 +5,7 @@ header:
   image: "/images/pic1.jpg"
 ---
 
-"If you can Dream it, you can Do it." ---<cite> Walt Disney </cite>
+<h2><strong>"If you can Dream it, you can Do it."</strong></h2> ---<cite> Walt Disney </cite>
 
 # About
 
