@@ -30,7 +30,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 
 
 ### Mathematical Finance and Data Science                                                             
-##### (March 2019 – Present)
+##### (March 2019 – August 2019)
 
 * Preformed Data analysis on  Samsung health data to investigate patterns and to generate significant insights using Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn). Created apps displaying insights and interactive visuals using flask and dash. 
 * Used Google Cloud to run apps continuously and broadcasted apps with external IP to enable public access.  
