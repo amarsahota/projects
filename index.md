@@ -15,10 +15,14 @@ Amar Sahota has been able to develop specialized skills in R, Python, SQL, Excel
 
 # Skills 
 
-##Programming Skills 
 
-Proficient with: Python,R, C, SQL, Tableau, Git, Excel.
+Innovation, Creativity, Time Management,  Communication,  Problem-Solving,  Organization,  Mathematics,  Statistics
 
+## Technical Skills 
+
+Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
+
+ 
 
 # PROJECT AND WORK EXPERIENCE 
 
