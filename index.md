@@ -29,7 +29,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 ## Lantern Institute 
 
 ### Mathematical Finance and Data Science                                                             
-#####(March 2019 – Present)
+##### (March 2019 – Present)
 
 * Preformed Data analysis on  Samsung health data to investigate patterns and to generate significant insights using Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn). Created apps displaying insights and interactive visuals using flask and dash. 
 * Used Google Cloud to run apps continuously and broadcasted apps with external IP to enable public access.  
@@ -40,7 +40,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 ## Quantitative Options Trader	
 
 ### Self – Employed 	      						                                                   
-#####(April 2017- Present)
+##### (April 2017- Present)
 
 * Traded option contracts on stocks, ETF’s and indexes
 * Analyzed Markets based on Fundamental and Technical Analysis 
@@ -53,7 +53,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 ## VOLO Headphones (Start-Up)
 
 ### Co-founder                                                                                        
-#####(Jan 2016 – April 2018)
+##### (Jan 2016 – April 2018)
 
 * Used Engineering Software to create renders of Headphones 
 * Created full functioning prototypes using 3D Printers 
@@ -67,7 +67,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 ## Designtest & Balance      
 
 ### Project Manager Assistant 								                                      
-#####(January 2014- August 2015)
+##### (January 2014- August 2015)
 
 * Created an automated data entry process for air and water reports using Excel 
 * Prepared blueprints and reports prior to on¬site visits
@@ -78,7 +78,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 ## Unionville Milliken Soccer Club
 
 ## Head Coach 								         		                                    
-#####(June 2011 - September 2011)
+##### (June 2011 - September 2011)
 
 * Coached children under the age of 12 in their soccer development 
 * Organized training exercises to improve soccer skills of children 
@@ -88,11 +88,11 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 ## EDUCATION
 
 ### Society of Actuaries                                                                        			
-#####(January 2019)
+##### (January 2019)
 #### Exam P 
 
 ### Ryerson University                                                                                        
-#####(April 2018)
+##### (April 2018)
 #### Mechatronics Engineering 
 
 
