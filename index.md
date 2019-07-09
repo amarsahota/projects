@@ -103,7 +103,7 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 [Download Here](https://github.com/amarsahota/projects/blob/master/Resume/Amar%20Sahota%20Resume%20.pdf)
 
 ## Contact Me 
-Email : amar.sahota271@gmail.com
+Email : **amar.sahota271@gmail.com**
 
 
 
