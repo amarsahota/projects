@@ -7,7 +7,7 @@ title: "Data Analysis Projects"
 ## [Glass Identification](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Glass_Identificaiton_Project/Glass_ML_Project.ipynb) 
 ------
 
-#### Project Summary
+#### Project Summary (Python)
 
 * Analysed compostions of different types of glass 
 * Visualized key relations among data 
@@ -17,7 +17,7 @@ title: "Data Analysis Projects"
 ## [Pokemon Data Analysis](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Pokemon_Project/Pokemon_Project_AmarSahota.ipynb) 
 ------
 
-#### Project Summary
+#### Project Summary (SQL, Python)
 
 * Worte SQL qwueries to investigate and sort data with SQlite3. 
 * Used Python to extract data from a large SQL database.
