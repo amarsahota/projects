@@ -1,9 +1,9 @@
 # main links
 main:
-    - title: "Projects"
-      url: /Data Analysis/
-    - title: "Projects"
-      url: /Quantitative Finance/
+    - title: "Data Analysis"
+      url: /da/
+    - title: "Quantitative Finance"
+      url: /qf/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
