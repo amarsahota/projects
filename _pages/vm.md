@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /PCA/
+permalink: /vm/
 title: "Principle Component Analysis"
 author_profile: true
 toc: true
