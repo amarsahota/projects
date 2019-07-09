@@ -1,8 +1,7 @@
 ---
 layout: home
 permalink: /da/
-header: 
-  image: "/images/pic1.jpg"
+title: "Data Analysis Projects"
 ---
 
 ## [Glass Identification](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Glass_Identificaiton_Project/Glass_ML_Project.ipynb) 
