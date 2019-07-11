@@ -4,6 +4,17 @@ permalink: /da/
 title: "Data Analysis Projects"
 ---
 
+
+## [Samsung Health Data Project](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Samsung_Health_Project/Project_AmarSahota.ipynb)
+
+#### Project Summary (Python)
+
+* Analysed and generated indepth insights for Samsung Health Data for a unknown person  
+* Organized, merged, manipulated data to discover key patterns
+* Advanced data visualization using Seaborn 
+
+
+
 ## [Glass Identification](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Glass_Identificaiton_Project/Glass_ML_Project.ipynb) 
 ------
 
