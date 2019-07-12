@@ -9,10 +9,10 @@ title: "Data Analysis Projects"
 
 #### Project Summary (Python)
 
-* Analysed and generated indepth insights for Samsung Health Data for a unknown person  
-* Organized, merged, manipulated data to discover key patterns
+* Analysed and generated in-depth insights from Samsung Health Data  
+* Organized, cleaned and manipulated data to discover key patterns
+* Merged multiple data sets to find correlations between parameters
 * Advanced data visualization using Seaborn 
-
 
 
 ## [Glass Identification](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Glass_Identificaiton_Project/Glass_ML_Project.ipynb) 
