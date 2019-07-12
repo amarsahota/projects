@@ -12,14 +12,6 @@ title: "Quantitative Finance Projects"
 * Simulated Option Prices using Binomial Trees 
 * Simulated Option Prices using Black-Scholes  
 
-## [Vasicek Model](https://amarsahota.github.io/projects/vm/) 
-------
-
-#### Project Summary (R)
-
-* Used Vasicek model to project future interest rates 
-
-
 ## [PCA Analysis](https://amarsahota.github.io/projects/PCA/) 
 ------
 
@@ -39,5 +31,10 @@ title: "Quantitative Finance Projects"
 * Created and analyzed term structures 
 * Visualized insights 
 
+## [Vasicek Model](https://amarsahota.github.io/projects/vm/) 
+------
 
+#### Project Summary (R)
+
+* Used Vasicek model to project future interest rates 
 

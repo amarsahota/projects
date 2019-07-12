@@ -191,5 +191,4 @@ binomial_tree(N, T, S, K, r, sigma, option)
 It can be seen that the binomial pricing method and the black-scholes pricing method produce almost identical results when the dividend yeild for the black sholes pricing method is equal to zero. Given the nature of the code it is more efficient to use the black-scholes method of calculating the price of options becuase the binomial tress require 100 iterations which takes up more processing power and takes longer. With iterations less than 100 the bionomial tress method was seen to be less accurate. When dividends are factored into the black-scholes method it can be seen that the price of the options changes slightly.
 
 To see the code in a Jupyter Notebook click the link below. 
-
 ## [Jupyuter Notebook](https://nbviewer.jupyter.org/github/amarsahota/projects/blob/master/Python_notebooks/Options/Options_Pricing.ipynb) 
