@@ -31,6 +31,15 @@ title: "Quantitative Finance Projects"
 * Created and analyzed term structures 
 * Visualized insights 
 
+## [Simple Linear Regression](https://amarsahota.github.io/projects/reg1/) 
+------
+
+#### Project Summary (R)
+
+* Explained the definition  and assumptions of linear regression
+* Preformed a regression analysis
+* Expalined the key parameters of linear regression models  
+
 ## [Vasicek Model](https://amarsahota.github.io/projects/vm/) 
 ------
 
