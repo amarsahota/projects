@@ -11,10 +11,9 @@ header:
 
 # About
 
-Amar Sahota has been able to develop specialized skills in R, Python, SQL, Excel and other programming languages allowing him to solve complex problems, while generating and displaying significant insights from large data sets. He is a highly motivated, result-oriented professional who has proven his ability to juggle multiple priorities simultaneously. His objective is to obtain a position that will allow him to use his problemsolving and programming skills in the field of machine learning and mathematical finance to create quantitative models to aid decision-making.  
+Amar Sahota has been able to develop specialized skills in R, Python, SQL, Excel and other programming languages allowing him to solve complex problems, while generating and displaying significant insights from large data sets. He is a highly motivated, result-oriented professional who has proven his ability to juggle multiple priorities simultaneously. His objective is to obtain a position that will allow him to use his problem-solving and programming skills in the field of data analysis and machine learning to create quantitative models to aid decision-making.    
 
 # Skills 
-
 
 Innovation, Creativity, Time Management,  Communication,  Problem-Solving,  Organization,  Mathematics,  Statistics
 
@@ -26,30 +25,32 @@ Python,  R, C, SQL, Tableau,  Git,  Excel,  Google Cloud (GCP).
 
 # PROJECT AND WORK EXPERIENCE 
 
+## Derivatix Capital Management 
+
+### Data and Quantitative Analyst 	      						                                                   
+##### June 2017- Present
+ 
+* Traded option contracts on stocks, ETF’s and indexes 
+* Analyzed Markets based on Fundamental and Technical Analysis  
+* Designed algorithmic options trading strategies using python.  
+* Used pandas to preform data analysis on past trades to gather insights on trading results  
+* Prepared data visualization reports and presented insights to team members  
+* Used Python to back test and analyze different option trading strategies  
+
+
 ## Lantern Institute 
 
-
-### Mathematical Finance and Data Science                                                             
+### Mathematical Finance and Data Science Analyst                                                            
 ##### March 2019 – August 2019
 
-* Preformed Data analysis on  Samsung health data to investigate patterns and to generate significant insights using Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn). Created apps displaying insights and interactive visuals using flask and dash. 
+* Preformed Data analysis on  Samsung health data to investigate patterns and to generate significant insights using Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn).
+* Created apps displaying insights and interactive visuals using flask and dash. 
 * Used Google Cloud to run apps continuously and broadcasted apps with external IP to enable public access.  
 * Used unsupervised and supervised machine learning techniques such as PCA, K-Nearest Neighbors, K-Clusters and Regression to create predictions and analyse structure of data.  
 * Investigated LIBOR interests’ rates for multiple CAD and USD tenors. Analysed the variance of tenors using principal component analysis and  investigated correlation plots to generate key insights. Used predictive models such as autocorrelation and Vasicek models to project probability distributions for future rates. 
 * Set-up queries for SQL databases to sort, aggregate, join and analyse data to generate insights. 
 
-## Quantitative Options Trader	
 
-### Self – Employed 	      						                                                   
-##### April 2017- Present
-
-* Traded option contracts on stocks, ETF’s and indexes
-* Analyzed Markets based on Fundamental and Technical Analysis 
-* Consulted with investors to find optimal strategies for specific market conditions 
-* Created models to indicate when to enter, exit, alter or hedge positions based on price action
-* Used R programming to back test and analyze different strategies 
-* Used Pandas in Python to track results and analyze trading data
-* Altered and Adjusted positions based on market fluctuations
 
 ## VOLO Headphones (Start-Up)
 

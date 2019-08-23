@@ -38,7 +38,7 @@ title: "Quantitative Finance Projects"
 
 * Explained the definition  and assumptions of linear regression
 * Preformed a regression analysis
-* Expalined the key parameters of linear regression models  
+* Expalined the key parameters and tests of linear regression models  
 
 ## [Vasicek Model](https://amarsahota.github.io/projects/vm/) 
 ------
